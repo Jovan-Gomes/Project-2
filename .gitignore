@@ -1,0 +1,7 @@
+# Ignore image datasets or large folders
+*.zip
+*.tar
+*.rar
+images/
+dataset/
+__pycache__/
